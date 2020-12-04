@@ -34,11 +34,11 @@ function draw(){
 
     
     ground.display();
-    crumpledPaper.display();
+    
     binPart1.display();
     binPart2.display();
-    binPart3.display(); 
-      
+    binPart3.display();
+     crumpledPaper.display(); 
     drawSprites();
 }
 
